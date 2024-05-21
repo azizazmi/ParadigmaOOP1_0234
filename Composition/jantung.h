@@ -9,4 +9,4 @@ public:
     ~jantung() {
         cout << "jantung dimatikan\n";
     }
-}
+};
